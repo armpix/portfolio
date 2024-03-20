@@ -6,8 +6,7 @@ Welcome to my personal portfolio project on GitHub! This repository serves as a 
 # Features:
 🌟 Interactive design to showcase projects
 📚 Detailed project descriptions and tech stack used
-🔗 Links to live demos and repositories
-📊 Statistics on contributions and coding activity
+📊 Statistics on contributions 
 📝 Contact information for collaboration opportunities
 # Technologies Used:
 🔧 HTML, CSS, JavaScript for frontend
